@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentación", "Presentación\Presentación.csproj", "{FEB4EF75-2811-4570-9254-83147443965C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "Dominio\Dominio.csproj", "{AFAE588C-6285-4806-83C1-3611F0610812}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Registro", "Registro\Registro.csproj", "{797C6162-06A2-4B93-8A15-54DF60A74E28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEB4EF75-2811-4570-9254-83147443965C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEB4EF75-2811-4570-9254-83147443965C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEB4EF75-2811-4570-9254-83147443965C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEB4EF75-2811-4570-9254-83147443965C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFAE588C-6285-4806-83C1-3611F0610812}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFAE588C-6285-4806-83C1-3611F0610812}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFAE588C-6285-4806-83C1-3611F0610812}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFAE588C-6285-4806-83C1-3611F0610812}.Release|Any CPU.Build.0 = Release|Any CPU
+		{797C6162-06A2-4B93-8A15-54DF60A74E28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{797C6162-06A2-4B93-8A15-54DF60A74E28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{797C6162-06A2-4B93-8A15-54DF60A74E28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{797C6162-06A2-4B93-8A15-54DF60A74E28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15B2DB73-6346-400E-AD42-2931FDE23F54}
+	EndGlobalSection
+EndGlobal
